@@ -1,6 +1,8 @@
 # Dog breed popularity
 
 
+[Tableau Public dashboard](https://public.tableau.com/app/profile/josh.stephens6499/viz/dog_breed_popularity/Dashboard1?publish=yes)
+
 ## Purpose
 
 The purpose of this project is to visualize the popularity of various dog breeds.
