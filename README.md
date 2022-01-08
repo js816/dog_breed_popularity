@@ -10,6 +10,8 @@ The purpose of this project is to visualize the popularity of various dog breeds
 
 Data source:  https://figshare.com/articles/dataset/American_Kennel_Club_Breed_Popularity_Statistics/715895
 
+The dataset contains the number of puppies of each breed registered by the [American Kennel Club](https://www.akc.org/) from 1926-2005.
+
 
 ## Cleaning in Excel
 
